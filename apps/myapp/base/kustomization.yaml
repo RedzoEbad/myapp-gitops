@@ -1,0 +1,7 @@
+resources:
+  - deployment.yaml
+  - service.yaml
+
+images:
+  - name: ebadkkhan2002/my-todo-app
+    newTag: 68cbb8feec9085baa305dd7d7da8015850a5614e
